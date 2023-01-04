@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754806187346",
+    "firebase_url": "https://sds2021-ad406-default-rtdb.firebaseio.com",
+    "project_id": "sds2021-ad406",
+    "storage_bucket": "sds2021-ad406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754806187346:android:964b87db28bb7a6f7a868b",
+        "android_client_info": {
+          "package_name": "com.company.sds2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754806187346-odufch65maskvipmrn48u36iu7pih8io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-4QViHwCdYlCZQoNIMWobRiG37vPSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754806187346-odufch65maskvipmrn48u36iu7pih8io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
